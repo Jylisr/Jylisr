@@ -3,7 +3,7 @@
 
 * Aspiring software developer from Finland
 * 19yo
-* Currently learning NodeJS and blender
+* Currently learning .NET
 
 ### Socials
 <a href="https://steamcommunity.com/profiles/76561198111869172/">
