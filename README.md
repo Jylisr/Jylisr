@@ -2,8 +2,8 @@
 ---
 
 * Aspiring software developer from Finland
-* 19yo
-* Currently learning .NET
+* 20yo
+
 
 ### Socials
 <a href="https://steamcommunity.com/profiles/76561198111869172/">
