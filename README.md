@@ -1,7 +1,7 @@
 ### Ayyo
 ---
 
-* Aspiring software developer from Finland
+* Aspiring to someday understand technology
 * Current student at Metropolia UAS
 
 
