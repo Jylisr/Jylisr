@@ -2,7 +2,7 @@
 ---
 
 * Aspiring to someday understand technology
-* Current student at Metropolia UAS
+
 
 
 
